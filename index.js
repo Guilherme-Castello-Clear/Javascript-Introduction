@@ -33,5 +33,6 @@ switch(cor){ //Switch funciona como if's em cadeia
 
     default:// Default é utilizado caso o valor da variável não seja representado em um case
         console.log("Semáforo quebrado!");
+        break;
 }
 
